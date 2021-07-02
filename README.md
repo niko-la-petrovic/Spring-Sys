@@ -2,6 +2,8 @@
 
 A simplistic and interactive spring system simulation.
 
+![Animation](https://user-images.githubusercontent.com/23142144/124304285-c64b4900-db63-11eb-8326-7097088dc25a.gif)
+
 Made during June 2020 for a Physics course.
 
 # Manual
